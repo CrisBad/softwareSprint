@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pepsi-plugin:jar">
+    <output-path>$PROJECT_DIR$/../out/artifacts/jar/plugins</output-path>
+    <root id="archive" name="pepsi-plugin.jar">
+      <element id="module-output" name="pepsi-plugin" />
+    </root>
+  </artifact>
+</component>
